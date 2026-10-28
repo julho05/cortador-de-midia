@@ -1,0 +1,18 @@
+CORTADOR DE MÍDIA - como usar
+==============================
+
+1. Dê dois cliques em CortadorDeMidia.exe (pode levar alguns segundos para abrir).
+2. Clique em "Escolher..." e selecione o áudio ou vídeo.
+3. Preencha o Início e o Fim do trecho que quer manter.
+   Exemplos: 0:00 e 59:31   |   1:05:00 e 1:20:30
+   Para deixar o arquivo com 59:31, use Início 0:00 e Fim 59:31.
+4. Escolha o formato em "Salvar como" (áudio sai em MP3 por padrão).
+5. Em "Nome do arquivo", digite o nome que quiser (a extensão já é colocada sozinha).
+6. Clique em "Cortar". Quando terminar, use "Abrir pasta" para ver o arquivo.
+
+O arquivo cortado é salvo na mesma pasta do original.
+Se já existir um arquivo com o mesmo nome, o programa acrescenta _2, _3...
+O arquivo original nunca é alterado.
+
+Vídeo: com "Corte preciso" marcado, o corte cai exatamente no tempo pedido,
+mas demora mais. Desmarcado é quase instantâneo, porém pode variar 1 a 2 segundos.
